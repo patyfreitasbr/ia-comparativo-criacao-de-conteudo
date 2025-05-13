@@ -1,11 +1,11 @@
-# 🤖 Comparativo de IA na Criação de Conteúdo
+# 🤖 Comparativo de IA na criação de conteúdo
 
-Este repositório apresenta uma análise comparativa entre duas IAs generativas — **ChatGPT** e **Gemini**, a partir da execução de um mesmo prompt com foco em **planejamento estratégico de conteúdo para blogs**.
+Este repositório apresenta uma análise comparativa entre duas IAs generativas, **ChatGPT** e **Gemini**, a partir da execução de um mesmo prompt com foco em **planejamento estratégico de conteúdo para blogs**.
 
 A proposta é demonstrar, na prática, como diferentes modelos de IA respondem a um mesmo comando, seus enfoques distintos, e como criadores de conteúdo podem usar essas ferramentas para aumentar sua produtividade digital.
 
 
-## 🎯 Objetivos do Projeto
+## 🎯 Objetivos do projeto
 
 - Avaliar como diferentes IAs interpretam e executam um mesmo prompt.
 - Analisar estilo, profundidade e foco de cada IA.
@@ -13,7 +13,7 @@ A proposta é demonstrar, na prática, como diferentes modelos de IA respondem a
 - Servir como material de estudo, comparação e portfólio.
 
 
-## 🧩 Estrutura do Repositório
+## 🧩 Estrutura do repositório
 
 - `analise-comparativa/`
   - `analise-comparativa-ia.md`: Documento com a análise crítica entre as duas IAs.
@@ -26,7 +26,7 @@ A proposta é demonstrar, na prática, como diferentes modelos de IA respondem a
 - `README.md`: Documento principal explicando o propósito do projeto.
 
 
-##  Prompt Conteúdo
+##  Prompt conteúdo
 
 
 Este prompt foi criado e utilizado para gerar um planejamento de conteúdo com base em um tema fornecido pelo usuário. 
@@ -72,7 +72,7 @@ Esse novo comando foi criado e usado para que a IA (usado o ChatGPT) fizesse a a
 
 *OBS: Um novo chat foi criado para para essa análise*
 
-## 📥 Prompt Aplicado ao chatGPT 
+## 📥 Prompt aplicado ao chatGPT 
 
 *OBS: onde esta * colei o prompt/respostas (poderia também ser anexado com a funcionalidade "adicionar fotos e arquivos")*
 
@@ -88,7 +88,7 @@ Qual diferencial de cada IA usada na geração desse conteudo?
 ```
 
 
-## 📊 Resumo da Análise 
+## 📊 Resumo da análise 
 
 
 | Aspecto                      | ChatGPT                                         | Gemini                                                |
@@ -102,7 +102,7 @@ Qual diferencial de cada IA usada na geração desse conteudo?
 > 📄 A análise completa pode ser lida em [`analise-comparativa/analise-comparativa-ia.md`](./analise-compartiva/analise-comparativa-ia.md)
 
 
-## 🧠 Aprendizados com o Projeto
+## 🧠 Aprendizados com o projeto
 
 - Criar prompts mais assertivos e adaptados ao objetivo final.
 - Compreender os pontos fortes de diferentes modelos de IA.
