@@ -106,7 +106,6 @@ Qual diferencial de cada IA usada na geração desse conteudo?
 
 - Criar prompts mais assertivos e adaptados ao objetivo final.
 - Compreender os pontos fortes de diferentes modelos de IA.
-- Aplicar conteúdo gerado por IA em ferramentas como Notion, Docs e planilhas.
 - Produzir um portfólio comparativo útil para criadores e estrategistas digitais.
 
 
