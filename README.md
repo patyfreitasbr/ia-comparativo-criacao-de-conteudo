@@ -63,7 +63,7 @@ Solicite o [tema] antes de gerar o conteúdo.
 | IA |  onde ver|
 |---|---|
 | GPT|  [conteúdo gerado](./respostas/conteudo-gpt.md)|
-| Gemini| [conteúdo gerado](./respostas/conteudo-gpt.md)|
+| Gemini| [conteúdo gerado](https://github.com/patyfreitasbr/ia-comparativo-criacao-de-conteudo/blob/main/respostas/conteudo-gemini.md)|
 
 
 ## Prompt pra análise comparativa
